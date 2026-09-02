@@ -48,6 +48,6 @@
     <tr>
         <td>bpisano</td>
         <td>[Weather](https://github.com/bpisano/Weather)</td>
-        <td>WeatherMap API, Met Office, AEMET</td>
+        <td>DarkSky API</td>
     </tr>
 </table>
