@@ -33,4 +33,26 @@ A disciplina de Front-end tem como objetivo a criação de aplicações web util
     <td>04</td>
     <td>Pesquisa por 10 projetos que consomem APIs, criação de um projeto que tenha API própria</td>
   </tr>
+  <tr>
+    <td>05</td>
+    <td>Organização do repositório e desenvolvimento de aplicação Express.js</td>
+  </tr>
+  <tr>
+    <td>06</td>
+    <td>Gerenciamento do Github Projects relacionado ao Projeto Integrador</td>
+  </tr>
+  <tr>
+    <td>07</td>
+    <td>Criar um projeto com CSS e Tailwind</td>
+  </tr>
+
+  <tr>
+    <td>08</td>
+    <td>Aplicação React que utilize os conceitos de JSX, componentes, props, renderização condicional, listas e VDOM </td>
+  </tr>
+
+  <tr>
+    <td>09</td>
+    <td>Aplicação React que utilize os conceitos de State, useState, consumo de API e React Router</td>
+  </tr>
 </table>
